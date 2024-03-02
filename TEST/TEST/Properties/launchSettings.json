@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TEST": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "jsWebView2Debugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
